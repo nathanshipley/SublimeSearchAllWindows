@@ -33,9 +33,13 @@ Add to your key bindings (`Preferences → Key Bindings`):
 
 Copy `search_all_windows.py` and `SearchAllWindows.sublime-commands` into your Sublime Text `Packages/User/` directory:
 
-```
-~/Library/Application Support/Sublime Text/Packages/User/
-```
+| OS | Path |
+|----|------|
+| macOS | `~/Library/Application Support/Sublime Text/Packages/User/` |
+| Windows | `%APPDATA%\Sublime Text\Packages\User\` |
+| Linux | `~/.config/sublime-text/Packages/User/` |
+
+Or find it via **Preferences → Browse Packages…** → `User/`.
 
 ## Requirements
 
