@@ -45,6 +45,10 @@ Or find it via **Preferences → Browse Packages…** → `User/`.
 
 Sublime Text 4 (build 4050+)
 
+## Attribution
+
+This plugin was written with [Claude](https://claude.ai), Anthropic's AI assistant.
+
 ## License
 
 MIT
